@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/pingyougou-cart-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pingyougou-cart-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pingyougou-content-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pingyougou-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pingyougou-order-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pingyougou-page-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pingyougou-page-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pingyougou-pay-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pingyougou-portal-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pingyougou-search-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pingyougou-search-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pingyougou-seckill-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pingyougou-seckill-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pingyougou-sellergoods-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pingyougou-shop-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pingyougou-user-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-user-web" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../Scala/play-scala-starter-example" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ScalaSbtSettings">
+    <option name="customVMEnabled" value="true" />
+    <option name="customVMPath" value="E:/java" />
+    <option name="vmParameters" value="-Xmx 1024M -XX:ReservedCodeCacheSize=256m -Dsbt.log.format=false" />
+  </component>
+</project>

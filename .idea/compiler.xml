@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pingyougou-cart-interface" />
+        <module name="pingyougou-cart-service" />
+        <module name="pingyougou-cart-web" />
+        <module name="pingyougou-common" />
+        <module name="pingyougou-content-interface" />
+        <module name="pingyougou-content-service" />
+        <module name="pingyougou-dao" />
+        <module name="pingyougou-manager-web" />
+        <module name="pingyougou-order-interface" />
+        <module name="pingyougou-order-service" />
+        <module name="pingyougou-page-interface" />
+        <module name="pingyougou-page-service" />
+        <module name="pingyougou-page-web" />
+        <module name="pingyougou-pay-interface" />
+        <module name="pingyougou-pay-service" />
+        <module name="pingyougou-pojo" />
+        <module name="pingyougou-portal-web" />
+        <module name="pingyougou-search-interface" />
+        <module name="pingyougou-search-service" />
+        <module name="pingyougou-search-web" />
+        <module name="pingyougou-seckill-interface" />
+        <module name="pingyougou-seckill-service" />
+        <module name="pingyougou-seckill-web" />
+        <module name="pingyougou-sellergoods-interface" />
+        <module name="pingyougou-sellergoods-service" />
+        <module name="pingyougou-shop-web" />
+        <module name="pingyougou-solr-util" />
+        <module name="pingyougou-user-interface" />
+        <module name="pingyougou-user-service" />
+        <module name="pinyougou-user-web" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
